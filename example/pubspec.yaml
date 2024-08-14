@@ -1,6 +1,6 @@
 name: video_thumbnail_example
 description: Demonstrates how to use the video_thumbnail plugin.
-version: 0.1.8
+version: 0.1.9
 publish_to: 'none'
 
 environment:
